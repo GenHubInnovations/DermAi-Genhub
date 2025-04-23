@@ -1,0 +1,13 @@
+Flask
+flask-cors
+tensorflow-cpu
+tensorflow
+numpy
+werkzeug
+gunicorn
+Pillow
+pymongo
+python-dotenv
+joblib
+torch
+torchvision
